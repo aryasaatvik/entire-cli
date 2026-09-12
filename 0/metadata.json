@@ -1,0 +1,46 @@
+{
+  "cli_version": "0.0.0-20260912160713-d6d864f76c4f",
+  "checkpoint_id": "01M2B6RF3CPRJFRGH3081SQ0PW",
+  "session_id": "ses_f7509705effeCYCCXmT7WDl9n5",
+  "strategy": "manual-commit",
+  "created_at": "2026-09-12T16:21:12.317378Z",
+  "branch": "fix/opencode-v2-support",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "cmd/entire/cli/agent/opencode/transcript.go",
+    "cmd/entire/cli/agent/opencode/types.go",
+    "cmd/entire/cli/transcript/compact/opencode.go"
+  ],
+  "agent": "OpenCode",
+  "model": "",
+  "turn_id": "b9b19c2ce7ef",
+  "compact_transcript_start": 0,
+  "token_usage": {
+    "input_tokens": 334792,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 75705728,
+    "output_tokens": 72332,
+    "api_call_count": 235
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-09-12T16:21:12.24646Z",
+    "agent_lines": 25,
+    "agent_removed": 15,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 25,
+    "total_lines_changed": 40,
+    "agent_percentage": 100,
+    "metric_version": 2
+  },
+  "prompt_attributions": [
+    {
+      "checkpoint_number": 1,
+      "user_lines_added": 0,
+      "user_lines_removed": 0,
+      "agent_lines_added": 0,
+      "agent_lines_removed": 0
+    }
+  ]
+}
