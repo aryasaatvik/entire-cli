@@ -1,0 +1,9 @@
+looks good for the most part. lets go ahead and open a draft PR on upstream
+
+---
+
+use @.claude/agents/reviewer.md and review the PR diff and make sure we are following the codebase best practices adn conventions
+
+---
+
+go ahead
